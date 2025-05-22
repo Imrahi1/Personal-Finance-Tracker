@@ -1,0 +1,6 @@
+Лекция по - https://www.youtube.com/live/3ox5DI_xAog
+выжимка - https://link.excalidraw.com/readonly/4plR4lkMVdzy2ISvMRip
+
+Приоритетный паттерн - MVC
+
+Учебный проект должен быть выше уровнем чем я
